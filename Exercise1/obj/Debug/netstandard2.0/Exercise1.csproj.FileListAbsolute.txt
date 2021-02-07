@@ -1,0 +1,14 @@
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.deps.json
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.dll
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\bin\Debug\netstandard2.0\ref\Exercise1.dll
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.pdb
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.csprojAssemblyReference.cache
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.csproj.CoreCompileInputs.cache
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.AssemblyInfoInputs.cache
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.AssemblyInfo.cs
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.dll
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\ref\Exercise1.dll
+E:\Users\JEAN\source\repos\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.pdb
